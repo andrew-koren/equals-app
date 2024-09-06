@@ -1,2 +1,2 @@
 # equals-app
-A latex app (in development
+A latex app (in development)
